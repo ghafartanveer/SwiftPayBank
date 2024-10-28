@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "prefabPath": "/Users/nextek/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.1.0/aa32fec809c44fa531f01dcfb739b5b3304d3050/cli-2.1.0-all.jar",
+  "packages": [
+    "/Users/nextek/.gradle/caches/8.8/transforms/076bfcd764adc7728a688a1f6be333dd/transformed/jetified-react-android-0.75.2-debug/prefab",
+    "/Users/nextek/Desktop/react-native/swiftPayBank/node_modules/react-native-reanimated/android/build/intermediates/prefab_package/debug/prefab",
+    "/Users/nextek/.gradle/caches/8.8/transforms/691784f5561ac84294df3d3e8ffd851d/transformed/jetified-hermes-android-0.75.2-debug/prefab",
+    "/Users/nextek/.gradle/caches/8.8/transforms/e0269596b4e8f4361c0cdd9a7ff12526/transformed/jetified-fbjni-0.6.0/prefab"
+  ]
+}
